@@ -16,7 +16,7 @@ model.fit(x,y)
 y_predict=model.predict(x)
 relation_score = model.score(x,y_e) #R^2 상관관계 계수
 
-print(relation_score)
+print('R^2',relation_score)
 
 # model.coef_ << 기울기 // model.intercept_ << 절편
 plt.scatter(x,y)
