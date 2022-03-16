@@ -14,6 +14,7 @@ def flight_heatmap():
     # print(df.head())
     # test
 
+# test
 
     plt.pcolor(df)
     plt.xticks(np.arange(0.5, len(df.columns),1), df.columns)
