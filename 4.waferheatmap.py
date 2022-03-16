@@ -26,16 +26,17 @@ def flight_heatmap():
     plt.show()
 
 def figure():
-    data = np.array([[ 0. ,  0. ,  1. ,  1. ,  0. ,  0. ],
+    data = np.array([[ 10. ,  0. ,  1. ,  1. ,  0. ,  0. ],
         [ 0. ,  1. ,  1. ,  1. ,  1. ,  0. ],
         [ 1. ,  2. ,  0.1,  2. ,  2. ,  1. ],
-        [ 1. ,  2. ,  2. ,  0.1,  2. ,  1. ],
-        [ 0. ,  1. ,  1. ,  1. ,  1. ,  0. ],
-        [ 0. ,  0. ,  1. ,  1. ,  0. ,  0. ]])
+        [ 1. ,  2. ,  2. ,  0.1,  20. ,  1. ],
+        [ 0. ,  1. ,  1. ,  1. ,  11. ,  0. ],
+        [ 0. ,  0. ,  1. ,  1. ,  0. ,  12. ]])
 
     plt.figure(1)
     plt.imshow(data ,interpolation='none')
     plt.colorbar()
     plt.show()
 
-flight_heatmap()
+# flight_heatmap()
+figure()
