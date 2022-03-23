@@ -29,4 +29,6 @@ def RbfModel ():
     plt.pcolor(ti,ti,SS)
     plt.show()
 
+#wafer map 만들기
+
 RbfModel()
