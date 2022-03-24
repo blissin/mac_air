@@ -25,10 +25,21 @@ def RbfModel ():
 
     rbf_adj = Rbf(df2['WF_X'],df2['WF_Y'],df2['StackSensitivity'],function='gaussian')
     SS=rbf_adj(XI,YI)
-    print(SS)
-    plt.pcolor(ti,ti,SS)
+    # print(SS)
+
+    r=np.sqrt(XI**2+YI**2)
+    circle=r<150
+    # print(XI,YI)
+    # print(XI[circle],YI[circle])
+    # print(r,circle)
+    print(r.shape,circle.shape,XI.shape,YI.shape,SS.shape)
+    print(XI[circle].shape)
+    # plt.pcolor(XI[circle],YI[circle],SS[circle])
+    # plt.pcolor(ti,ti,SS)
     plt.show()
 
 #wafer map 만들기
 
 RbfModel()
+
+#%%
