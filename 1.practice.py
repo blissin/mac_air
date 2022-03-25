@@ -21,7 +21,7 @@ def qr_householder(A):
 
     return Q, R
 
-
+#TEST
 
 data = np.array([[100, 20], 
         [150, 24], 
