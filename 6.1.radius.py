@@ -33,9 +33,9 @@ def RbfModel ():
     # print(XI[circle],YI[circle])
     # print(r,circle)
     print(r.shape,circle.shape,XI.shape,YI.shape,SS.shape)
-    print(XI[circle].shape)
+    # print(XI[circle].shape)
     # plt.pcolor(XI[circle],YI[circle],SS[circle])
-    # plt.pcolor(ti,ti,SS)
+    plt.pcolor(ti,ti,SS)
     plt.show()
 
 #wafer map 만들기
