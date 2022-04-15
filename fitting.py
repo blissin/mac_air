@@ -4,8 +4,8 @@ def hoc_ihoc_modeling(self,numraw_input,wpar_x=1023, wpar_y=1023, rpar_x=1023, r
     N=0
     for i in range(order+1):
         N=N+i+1
-    k_hosr_x_2N = np.zeros((2*N,1))
-    k_hosr_y_2N = np.zeros((2*N,1))
+    k_para_x_2N = np.zeros((2*N,1))
+    k_para_y_2N = np.zeros((2*N,1))
     num_raw = numraw_input.copy()
     model_hosr = numraw_input.copy()
     resi_hosr = numraw_input.copy()
@@ -44,17 +44,17 @@ def hoc_ihoc_modeling(self,numraw_input,wpar_x=1023, wpar_y=1023, rpar_x=1023, r
     else:
         M_y = Mw_y
 
-    k_hosr_x, res_x, rank_x, s_x = np.linalg.lstsq(M_x, np.asmatrix(num_raw.loc[:,'u'].T, rcond=None))
-    k_hosr_y, res_y, rank_y, s_y = np.linalg.lstsq(M_y, np.asmatrix(num_raw.loc[:,'v'].T, rcond=None))
+    k_para_x, res_x, rank_x, s_x = np.linalg.lstsq(M_x, np.asmatrix(num_raw.loc[:,'u'].T, rcond=None))
+    k_para_y, res_y, rank_y, s_y = np.linalg.lstsq(M_y, np.asmatrix(num_raw.loc[:,'v'].T, rcond=None))
 
-    k_hosr_x_2N[list(np.concatenate((index_w_x,index_r_x)))] = k_hosr_x
-    k_hosr_y_2N[list(np.concatenate((index_w_y,index_r_y)))] = k_hosr_x
+    k_para_x_2N[list(np.concatenate((index_w_x,index_r_x)))] = k_para_x
+    k_para_y_2N[list(np.concatenate((index_w_y,index_r_y)))] = k_para_x
 
-    model_hosr.loc[:,'u'] = M_x * k_hosr_x
-    model_hosr.loc[:,'v'] = M_y * k_hosr_y
+    model_hosr.loc[:,'u'] = M_x * k_para_x
+    model_hosr.loc[:,'v'] = M_y * k_para_y
     
     resi_hosr.loc[:,['u','v']] = num_raw.loc[:,['u','v']] - model_hosr.loc[:,['u','v']]
 
-    K = np.concatenate([k_hosr_x_2N,k_hosr_y_2N],axis=1)
+    K = np.concatenate([k_para_x_2N,k_para_y_2N],axis=1)
     
     return model_hosr,resi_hosr,K
