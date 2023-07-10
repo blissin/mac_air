@@ -1,11 +1,16 @@
-import sys
+import sys, os
 from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QLabel, QWidget, QPushButton, QLineEdit
+
+if getattr(sys, 'frozen', False):
+    application_path = os.path.dirname(sys.executable)
+elif __file__:
+    application_path = os.path.dirname(__file__)
 
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
 
-        self.setWindowTitle("Samsung-inspired Dark Mode Application")
+        self.setWindowTitle("Samsung-inspired Dark Mode Application updated")
         self.setGeometry(100, 100, 600, 800)
 
         # Set the menubar and status bar color to black
