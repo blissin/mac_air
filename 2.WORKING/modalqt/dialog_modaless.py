@@ -16,7 +16,11 @@ from PyQt5.QtWidgets import *
 progname = os.path.basename(sys.argv[0])
 progversion = "0.1"
 
-dialog_form_class = uic.loadUiType("modalqt/dialog_modaless.ui")[0]
+print(os.getcwd())
+sys.path.append(os.path.dirname(os.path.abspath(os.path.dirname(__file__))))
+sys.path.append(os.path.dirname(os.path.abspath(os.path.dirname(os.path.abspath(os.path.dirname(__file__))))))
+
+dialog_form_class = uic.loadUiType("./dialog_modaless.ui")[0]
 class MyDialog(QDialog, dialog_form_class):
     def __init__(self, parant):
         super().__init__()
