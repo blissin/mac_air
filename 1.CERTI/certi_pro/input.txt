@@ -1,0 +1,2001 @@
+2000
+register 200 5250 8 39 32
+register 1810 747 57 1 26
+register 163 5824 11 94 31
+register 538 626 53 34 22
+register 1400 7408 28 98 69
+update 1400 0 90
+register 1937 536 8 8 46
+hire_max
+register 1022 1336 26 9 55
+register 2571 8318 99 10 25
+hire_max
+register 3568 903 13 68 4
+register 3733 4958 80 26 68
+register 172 1439 94 62 4
+cancel 172
+register 3023 8661 21 53 8
+hire_max
+register 2531 532 36 64 13
+register 1802 9330 96 83 3
+register 1098 7667 69 84 46
+register 2039 8373 56 38 77
+update 2039 2 2
+hire_max
+register 498 448 19 66 22
+register 3984 4300 51 30 89
+register 267 6589 80 88 95
+hire_max
+register 2870 6434 10 38 1
+register 2447 6999 16 70 20
+cancel 2870
+register 3575 2066 6 34 5
+register 1823 9358 4 62 37
+hire_max
+register 1423 3101 91 86 91
+register 3403 2967 93 82 80
+cancel 1423
+register 2699 1740 62 64 32
+cancel 3403
+register 1097 6265 16 9 40
+hire_max
+register 1845 2138 9 85 38
+register 117 8337 79 5 64
+register 105 6764 68 73 72
+register 3268 320 36 17 61
+cancel 105
+hire_min
+register 2624 3776 55 95 78
+register 227 9252 85 78 71
+hire_max
+register 1893 5134 71 78 20
+register 3158 723 4 74 41
+hire_max
+register 3758 2771 96 43 70
+register 3760 3293 33 26 59
+register 2283 8486 61 20 46
+hire_min
+register 573 5513 83 43 34
+hire_min
+register 3864 329 39 80 1
+cancel 2283
+register 232 1923 12 34 87
+cancel 3864
+register 3732 9714 35 84 80
+cancel 3758
+register 1307 6341 43 77 56
+hire_max
+register 2291 645 17 92 7
+register 3995 1626 36 18 84
+register 1352 4154 35 38 72
+hire_max
+register 1890 4245 13 59 89
+register 1211 153 63 55 35
+register 666 9506 45 36 35
+update 666 0 89
+cancel 2291
+register 693 1470 51 61 68
+cancel 666
+register 2770 3932 28 90 36
+hire_min
+register 2957 9966 87 86 46
+hire_max
+register 2085 4232 75 46 38
+register 3901 6249 62 80 75
+register 2863 3094 2 92 42
+register 2708 3755 20 33 87
+update 2863 2 53
+register 1396 3694 30 86 88
+hire_max
+register 3643 3831 79 10 8
+cancel 2770
+register 1498 7915 23 90 96
+register 1740 5643 46 80 85
+cancel 1498
+hire_max
+register 3475 3219 59 76 0
+register 3057 215 34 90 77
+register 3166 5899 15 38 32
+hire_min
+register 1123 78 48 95 12
+hire_min
+register 3443 2507 80 90 11
+register 958 694 97 4 72
+update 3475 0 87
+register 744 9917 80 86 63
+cancel 3166
+register 1792 5844 44 81 28
+register 3867 2145 66 17 50
+update 3443 1 13
+cancel 3443
+update 3760 2 4
+register 1917 4710 81 55 72
+update 3760 1 42
+hire_min
+hire_max
+register 2492 8015 49 12 57
+hire_min
+register 1966 9814 66 94 42
+register 3469 4052 16 85 35
+hire_min
+hire_min
+register 1113 3580 2 37 93
+hire_min
+register 2808 7975 59 76 20
+hire_max
+register 2813 922 82 7 88
+register 767 6631 35 23 13
+register 1557 4223 58 76 30
+update 767 0 94
+hire_max
+register 664 6135 1 33 26
+register 2804 4572 73 47 50
+register 3387 9703 76 40 30
+cancel 767
+register 3165 6539 62 10 0
+hire_max
+register 3672 6132 23 67 65
+register 2411 5884 57 82 85
+register 3552 4749 73 80 88
+register 2314 6457 90 8 48
+hire_min
+hire_min
+register 2874 973 33 43 32
+update 2874 0 0
+cancel 2314
+register 3326 934 60 30 56
+hire_min
+register 1781 3265 30 14 0
+hire_min
+register 138 8184 52 89 34
+cancel 138
+register 3383 5028 100 42 63
+hire_max
+register 2759 4279 3 59 14
+register 3965 7453 84 94 76
+register 3665 1507 24 75 66
+cancel 3965
+register 3476 7701 8 10 43
+hire_min
+register 2056 9025 63 2 89
+hire_max
+register 1488 4867 71 31 63
+register 1729 1804 92 90 1
+register 1068 8253 54 11 89
+update 1068 1 53
+cancel 1488
+register 511 5406 87 30 16
+cancel 1068
+register 310 653 4 34 11
+hire_max
+register 3060 6527 0 16 83
+register 1204 9315 30 78 88
+register 3079 3364 47 50 25
+register 1826 5699 37 74 10
+cancel 3079
+hire_max
+register 1184 2513 91 55 6
+register 1440 8826 32 9 54
+register 3529 5178 78 25 49
+update 3529 0 3
+hire_min
+register 3580 9175 29 35 91
+hire_min
+register 3397 2642 39 24 1
+hire_max
+register 3483 9981 40 45 71
+register 2252 647 63 13 5
+register 652 1573 16 18 22
+hire_max
+register 167 3681 52 45 76
+register 943 6083 49 85 62
+register 3539 2607 47 47 62
+hire_max
+register 87 3733 10 46 60
+register 2693 696 41 92 37
+register 103 9858 51 41 61
+hire_max
+register 1265 2412 71 78 82
+register 510 6323 51 91 20
+register 1316 1635 42 45 41
+update 510 1 4
+register 2624 9711 36 19 87
+cancel 1781
+update 510 0 17
+update 2624 0 66
+cancel 652
+register 1064 8403 44 54 74
+update 1316 0 29
+hire_max
+register 3496 9048 66 7 99
+register 2789 2151 4 76 45
+register 1076 8799 13 96 97
+update 1316 0 41
+cancel 510
+register 1038 6771 65 81 45
+register 1947 8018 71 97 4
+hire_max
+register 1074 6936 43 25 75
+register 879 511 62 8 91
+hire_max
+register 3730 2695 64 41 63
+register 2112 3037 51 68 93
+register 2183 5234 56 56 1
+update 1316 1 58
+hire_min
+register 2073 8813 20 82 26
+cancel 2183
+register 2613 7831 14 30 27
+update 2073 1 40
+hire_min
+register 379 9844 53 8 55
+register 3440 7307 89 45 62
+hire_min
+hire_max
+register 592 5002 80 29 90
+register 3576 8748 85 78 90
+register 3903 7603 6 7 93
+hire_min
+register 3275 676 69 4 96
+cancel 3576
+register 3876 6896 81 75 57
+hire_max
+register 2581 1961 51 51 62
+register 3041 4368 49 39 36
+register 1796 1999 90 3 84
+hire_max
+register 508 7803 44 67 52
+register 2128 1043 48 38 59
+register 2863 2888 72 7 36
+hire_min
+register 1182 9833 56 42 11
+hire_max
+register 2445 8863 3 25 26
+register 3516 8937 13 5 80
+register 2406 6194 55 32 61
+register 3759 8127 0 29 71
+update 2613 0 83
+cancel 2073
+hire_min
+register 443 3520 29 76 71
+cancel 3759
+register 236 2983 14 22 99
+hire_max
+register 2012 9824 52 32 29
+register 2915 4203 87 52 74
+register 356 4070 18 46 36
+hire_max
+register 3502 5905 88 22 86
+register 1043 1824 80 55 32
+register 90 8893 32 55 26
+register 1758 4316 4 0 92
+cancel 3502
+hire_min
+register 3910 515 79 43 38
+hire_max
+register 3934 7419 37 83 83
+register 1231 9925 14 68 19
+register 2102 4027 2 39 18
+hire_max
+register 2651 3918 51 60 4
+register 3500 9227 29 56 97
+register 3286 5036 8 8 100
+cancel 2445
+register 3074 7202 32 66 51
+cancel 3500
+register 2739 9932 39 51 79
+update 3286 1 82
+cancel 2739
+register 775 3009 29 5 50
+cancel 3074
+register 1790 9111 3 31 40
+register 778 4468 11 79 55
+register 3560 8986 17 88 54
+hire_max
+register 2755 6396 17 75 64
+register 2349 8746 96 50 35
+hire_max
+register 3106 2527 81 52 6
+register 1076 784 24 44 89
+register 788 815 61 61 33
+cancel 1076
+hire_min
+register 1273 7170 70 17 85
+hire_min
+register 609 7374 84 90 60
+cancel 1790
+register 888 6800 23 19 10
+cancel 888
+register 383 1908 23 51 89
+update 383 2 60
+cancel 609
+register 3327 9160 6 47 93
+hire_min
+register 3650 1696 38 29 29
+register 1592 4066 15 42 86
+cancel 1273
+cancel 3650
+register 3562 8316 98 80 58
+hire_max
+register 1269 1818 58 86 51
+register 2758 4880 88 72 76
+register 3177 6676 67 28 2
+cancel 1269
+register 1201 7494 89 64 25
+register 145 7976 21 38 56
+hire_max
+register 3022 8837 45 88 75
+register 3390 7722 3 0 7
+hire_min
+register 599 2576 65 50 14
+hire_max
+register 3960 2845 60 22 97
+register 170 3270 71 51 52
+register 3663 6184 55 100 58
+register 1094 5779 65 90 44
+cancel 170
+cancel 2102
+register 3402 5449 96 17 82
+cancel 3402
+register 1613 6336 24 60 40
+hire_max
+register 2017 9031 60 24 14
+register 1634 9504 77 23 43
+register 1057 7311 17 8 33
+cancel 1057
+register 3332 7490 86 66 45
+update 3332 2 19
+register 514 3869 13 43 88
+hire_min
+update 1634 0 76
+hire_max
+register 2714 9892 30 23 51
+register 1124 5484 9 29 42
+register 589 7303 48 50 63
+register 3082 1444 40 93 16
+hire_max
+register 924 1843 89 15 33
+register 2857 8225 95 89 35
+hire_max
+register 975 3800 98 79 14
+register 2467 2523 83 10 75
+register 1474 8344 43 29 20
+update 2467 2 21
+hire_max
+register 1857 3075 73 65 92
+register 764 9172 2 12 1
+register 2613 7533 19 2 81
+cancel 2613
+register 65 1807 96 94 10
+cancel 65
+register 1251 8809 42 91 92
+update 1124 1 59
+register 3400 736 36 64 76
+hire_max
+register 1985 9127 29 82 0
+register 2772 9926 96 46 58
+register 2216 1781 85 51 48
+register 3572 6072 68 13 61
+register 1345 5990 51 23 78
+hire_max
+update 1124 1 8
+hire_min
+register 1265 5198 50 31 3
+update 3572 2 60
+cancel 3572
+register 399 7478 53 26 3
+update 399 1 8
+hire_min
+register 3665 6151 2 78 11
+hire_min
+register 1218 3724 14 57 78
+hire_min
+register 229 6004 35 68 38
+update 229 0 55
+cancel 399
+register 437 3425 72 20 71
+update 764 0 92
+hire_max
+register 1856 1633 38 35 56
+register 982 9722 96 26 50
+register 3395 3213 36 3 22
+hire_max
+register 755 9619 35 100 68
+register 2015 7595 38 19 47
+register 1797 1116 82 51 13
+update 1797 0 3
+hire_min
+register 1727 1022 24 52 75
+cancel 2015
+register 946 9181 41 75 35
+hire_max
+register 294 5702 26 84 88
+register 241 7502 40 24 74
+register 2314 8053 55 62 44
+hire_min
+register 3823 5647 48 49 56
+hire_max
+register 3373 5144 34 20 18
+register 238 4419 24 94 31
+register 490 6574 22 73 1
+hire_max
+register 1514 5016 92 3 16
+register 2990 8713 11 3 96
+register 3030 1493 6 10 73
+hire_max
+register 1390 1683 96 16 60
+register 2685 6350 25 27 30
+register 1289 2056 21 100 10
+hire_min
+register 2013 4141 32 50 24
+register 2117 59 5 20 57
+cancel 1289
+hire_max
+register 3767 2607 39 68 38
+register 1087 8608 28 50 87
+register 3075 2970 19 50 5
+cancel 3767
+register 920 7971 12 48 50
+register 513 4357 62 60 33
+hire_max
+register 3978 953 70 41 37
+register 560 5362 76 3 17
+register 2369 9234 100 47 5
+hire_min
+hire_min
+register 1573 6000 57 75 45
+hire_max
+register 2970 3507 22 3 24
+register 2331 8106 77 70 25
+register 3549 2674 13 34 9
+hire_max
+register 1335 7177 35 37 50
+register 3629 197 14 42 42
+register 3220 1342 62 79 55
+cancel 3629
+register 212 7474 58 89 99
+cancel 2970
+register 2338 1060 50 19 71
+update 3390 1 40
+hire_max
+register 3394 4893 16 35 78
+register 65 2418 22 34 99
+register 2191 2092 93 69 17
+hire_min
+register 1186 5673 59 58 27
+update 3390 1 21
+hire_min
+register 3911 6076 44 26 47
+cancel 1186
+register 708 9305 13 86 86
+update 3911 1 5
+register 1009 6272 16 90 6
+cancel 1009
+hire_max
+register 2491 5867 89 64 20
+register 2103 5128 27 26 88
+register 803 6414 11 37 76
+update 3911 0 19
+cancel 3390
+register 4000 3609 59 5 97
+register 508 7752 56 66 24
+hire_min
+hire_min
+register 2909 4825 2 8 30
+hire_max
+register 3296 6532 14 27 58
+register 7 4479 87 66 1
+register 2028 1984 69 91 19
+update 2909 0 94
+hire_min
+register 959 3281 97 73 13
+update 2909 0 67
+update 959 1 56
+hire_max
+register 2543 4735 46 55 36
+register 682 4261 75 16 53
+register 540 9 99 16 33
+hire_max
+register 2010 2512 35 97 12
+register 711 7111 13 95 13
+register 2378 2091 46 24 10
+hire_min
+register 1348 1878 70 96 72
+hire_max
+register 1009 9795 4 52 73
+register 3501 7286 61 98 39
+register 3121 5713 22 99 91
+cancel 3121
+register 2983 4871 34 88 33
+update 3501 0 99
+cancel 3911
+register 2182 2501 69 69 58
+hire_min
+register 461 6242 64 24 63
+hire_max
+register 2371 403 6 99 95
+register 3072 980 54 19 53
+register 530 7200 40 55 44
+update 3072 1 1
+cancel 2371
+register 357 1442 68 11 37
+hire_max
+register 642 2292 57 33 74
+register 1537 4112 84 33 21
+register 2769 463 36 49 24
+register 562 3632 30 26 20
+cancel 3072
+hire_min
+register 2270 6846 1 49 3
+register 3057 7396 61 66 38
+register 3472 8442 89 43 97
+hire_min
+update 1537 2 46
+hire_min
+hire_max
+register 261 2462 62 38 17
+register 1359 8499 78 4 65
+register 2525 2659 72 13 22
+register 355 9750 7 100 44
+hire_max
+register 1892 7178 2 33 49
+register 3085 6175 17 36 22
+update 3085 0 76
+hire_max
+register 1054 7514 71 15 88
+register 3073 5183 72 57 84
+register 2984 888 6 53 0
+register 3167 9506 56 94 100
+update 3073 2 48
+cancel 1892
+hire_max
+register 3635 428 33 67 72
+register 916 3480 11 86 33
+register 1853 123 81 21 30
+register 3346 9253 46 94 7
+hire_min
+register 2223 7070 50 0 50
+update 916 2 78
+hire_max
+register 2636 5711 63 27 95
+register 1316 5573 37 50 8
+update 1316 1 83
+hire_min
+register 207 5600 86 56 58
+hire_min
+register 1732 2606 56 31 82
+hire_max
+register 2951 8403 99 31 52
+register 2078 7967 47 87 91
+register 2941 6477 88 88 11
+cancel 2941
+register 1903 4389 26 62 29
+hire_min
+register 12 6252 29 84 45
+update 2270 1 11
+cancel 2223
+register 2441 2034 37 46 67
+update 2441 1 10
+cancel 2441
+register 2760 2119 25 86 7
+hire_min
+register 1393 5960 33 12 83
+cancel 2270
+register 3678 843 82 15 88
+hire_max
+register 842 3290 57 6 33
+register 1310 8160 78 23 3
+register 2486 6654 59 9 10
+update 2486 0 59
+cancel 1393
+register 2870 813 85 38 11
+hire_min
+register 3180 457 45 96 32
+hire_min
+register 3218 676 16 62 71
+cancel 12
+register 3860 9521 3 97 81
+hire_max
+register 2312 555 15 66 51
+register 2743 5476 19 32 53
+register 565 7613 95 34 87
+hire_max
+register 193 4527 63 78 79
+register 664 6289 25 97 12
+register 1980 9383 64 81 91
+hire_max
+register 967 2862 64 60 37
+register 1241 1587 63 64 13
+register 1685 7909 69 91 46
+register 3436 905 4 31 5
+update 1241 2 76
+update 1241 1 10
+hire_max
+register 1628 3716 57 45 67
+register 2437 798 68 55 30
+hire_min
+register 3074 8403 56 54 92
+register 1929 1276 23 63 67
+hire_min
+hire_max
+register 3344 8508 47 45 29
+register 2680 9160 5 42 90
+register 1774 5765 21 73 96
+update 842 0 49
+hire_min
+register 2861 6982 26 62 44
+cancel 2861
+register 1295 5904 37 84 82
+cancel 2680
+register 2657 1402 75 91 73
+cancel 1295
+register 2651 8766 16 30 45
+hire_min
+register 1099 8458 9 48 93
+hire_max
+register 3013 8009 48 37 28
+register 846 7597 11 28 92
+register 3696 5736 69 49 89
+hire_min
+register 3033 4195 81 25 82
+cancel 2486
+register 127 1978 33 30 18
+update 846 0 76
+hire_min
+register 3628 2354 41 38 26
+cancel 846
+register 2003 2287 39 98 35
+cancel 3013
+register 2285 7780 4 43 50
+register 3147 984 94 83 38
+register 3689 2715 40 36 21
+register 2716 4855 64 14 22
+register 3814 9317 18 77 77
+update 3689 1 38
+hire_max
+cancel 3628
+hire_min
+register 836 6136 65 18 35
+cancel 836
+register 729 5416 75 60 29
+register 2571 2394 64 45 65
+hire_min
+update 2651 2 17
+hire_max
+register 2103 4622 61 2 45
+register 1355 2444 91 30 23
+register 2866 4621 83 64 88
+update 1355 0 40
+update 1355 0 2
+hire_min
+register 137 2864 35 39 13
+update 137 0 56
+hire_min
+register 3043 4812 59 54 41
+register 2763 3642 63 12 85
+register 1678 5153 34 72 59
+hire_min
+hire_min
+hire_min
+register 2836 5642 55 59 69
+cancel 3043
+register 2684 4053 55 66 54
+register 182 3550 64 23 4
+hire_max
+register 2221 1348 71 34 42
+register 3774 5779 14 90 47
+hire_min
+register 809 5111 62 84 50
+hire_min
+register 2708 7647 3 89 62
+cancel 2651
+register 32 6941 50 48 65
+hire_min
+register 211 2311 16 51 66
+hire_max
+register 511 2933 46 4 74
+register 285 7855 64 63 6
+register 1925 2531 95 76 53
+hire_max
+register 383 3595 50 44 95
+register 374 5237 47 11 58
+register 1602 6253 36 67 7
+update 374 1 13
+hire_min
+register 470 1142 1 23 51
+register 1646 4256 33 82 3
+hire_min
+register 3332 2691 67 74 8
+hire_min
+update 374 0 13
+register 851 5641 27 81 56
+update 383 0 45
+cancel 1602
+hire_min
+register 2517 1918 17 21 6
+hire_min
+register 1833 9066 73 83 79
+register 2767 2940 43 77 39
+update 2285 0 100
+hire_min
+cancel 851
+register 2732 543 52 93 7
+hire_min
+register 2955 7166 29 98 58
+hire_max
+register 1433 3753 49 44 78
+register 861 1074 22 74 35
+register 3879 374 25 17 34
+cancel 1646
+register 2857 2676 10 95 12
+register 2734 8358 34 90 59
+cancel 861
+hire_max
+register 438 7753 99 30 25
+register 998 8605 55 90 12
+register 3397 2673 91 53 1
+update 998 0 52
+cancel 3879
+register 554 2282 3 65 45
+cancel 998
+register 3552 5626 4 76 68
+hire_max
+register 533 3149 32 27 38
+register 3642 6403 91 2 94
+register 1840 5814 36 11 97
+register 3142 4797 98 68 63
+hire_min
+hire_min
+register 330 358 54 50 77
+cancel 330
+register 152 5182 8 59 51
+update 374 0 46
+update 1840 1 1
+hire_min
+register 1036 9217 40 95 85
+register 3779 3970 95 2 40
+update 1840 1 2
+update 374 1 65
+cancel 152
+hire_min
+register 883 4391 10 60 31
+hire_max
+register 1710 1567 11 41 26
+register 3599 9715 30 68 31
+register 1334 2392 88 6 28
+hire_max
+register 114 3379 14 71 31
+register 3355 2798 51 62 37
+register 3439 7048 85 94 98
+hire_max
+register 912 9194 1 48 92
+register 758 208 0 71 53
+register 1789 8485 48 46 32
+hire_max
+register 2102 910 96 78 42
+register 1961 6080 65 28 13
+register 1421 7167 54 88 12
+hire_min
+register 3510 5737 8 58 54
+hire_max
+register 1234 9037 59 32 91
+register 1398 8029 60 1 64
+register 1042 6417 35 36 39
+update 1398 2 43
+cancel 1710
+register 1615 4839 65 37 1
+update 883 0 26
+cancel 1398
+register 3007 659 96 11 86
+update 1042 1 1
+update 1042 2 80
+cancel 1042
+register 1793 3945 96 42 31
+register 2129 2473 10 48 27
+hire_min
+hire_max
+register 2090 835 61 58 95
+register 1779 1869 57 69 94
+register 771 7242 79 47 65
+update 2090 1 89
+register 3365 2720 59 67 35
+cancel 1615
+update 771 2 39
+hire_max
+register 2246 4615 22 56 59
+register 2364 6003 35 55 54
+register 1892 9703 4 96 56
+cancel 1892
+register 273 4574 92 5 34
+update 273 0 38
+hire_min
+register 1068 1029 11 2 91
+cancel 273
+register 3420 9347 73 25 38
+hire_min
+register 2478 1209 2 24 29
+update 3365 0 62
+hire_max
+register 300 2394 11 8 98
+register 3785 1347 93 71 23
+register 2134 9968 1 94 10
+register 2234 1865 18 16 7
+hire_min
+cancel 300
+register 2831 1357 12 25 4
+cancel 2234
+register 2142 5323 57 77 62
+hire_max
+register 3809 7306 81 47 83
+register 1256 7353 92 87 6
+register 1100 4321 57 24 11
+cancel 3809
+register 1522 3995 4 85 49
+hire_min
+register 3655 5610 95 65 79
+update 1522 2 59
+update 1100 1 100
+register 3814 2603 24 46 23
+register 1250 6435 3 3 58
+hire_min
+update 3655 2 69
+cancel 1250
+update 3655 2 42
+cancel 1522
+register 2719 1288 2 5 76
+register 246 4982 67 3 56
+register 3991 7193 86 54 76
+hire_max
+register 1144 9109 15 20 47
+register 3600 9478 48 56 19
+cancel 1100
+update 246 2 40
+register 716 169 18 43 66
+hire_min
+update 246 0 8
+cancel 2719
+register 2668 9970 12 5 13
+cancel 2668
+register 860 8654 80 95 42
+register 777 6633 5 20 60
+update 486402098 1 75
+cancel 2134
+register 1480 2524 11 54 9
+register 3020 7338 75 35 82
+hire_max
+register 2290 8308 83 81 14
+hire_max
+register 3297 6574 43 40 11
+register 1542 7564 85 72 72
+register 3206 5289 33 60 57
+update 1542 2 97
+hire_max
+register 3451 2390 65 100 80
+register 3567 4954 93 46 67
+register 2544 8526 33 30 97
+cancel 3451
+register 661 7983 16 89 6
+hire_max
+register 54 8337 53 10 90
+register 650 9922 0 98 74
+register 3504 3009 63 23 60
+hire_max
+register 717 8877 89 12 42
+register 618 1354 26 36 1
+register 1004 3387 35 45 34
+cancel 246
+register 3263 6365 43 25 35
+cancel 717
+register 400 3752 89 88 85
+hire_min
+register 3983 1268 29 47 90
+hire_min
+register 2094 3788 66 52 64
+hire_max
+register 566 4828 87 50 39
+register 1032 4827 98 11 62
+register 3665 4232 17 18 84
+update 1032 2 7
+register 2025 9695 89 0 12
+register 2523 2560 7 50 66
+register 2735 3690 27 56 56
+register 3580 3797 44 58 26
+hire_max
+cancel 1480
+update 3263 2 87
+hire_max
+register 472 3743 6 21 16
+register 3511 8895 38 68 60
+register 1719 9292 56 8 73
+cancel 472
+register 551 5538 77 51 95
+hire_min
+register 183 5365 67 67 69
+hire_min
+register 368 715 12 13 13
+hire_min
+register 42 7458 33 24 25
+register 2009 4975 38 16 85
+register 421 931 49 33 43
+update 421 1 77
+update 2025 2 47
+update 42 0 18
+register 2846 2796 53 99 42
+update 2025 2 74
+cancel 3511
+register 2805 7994 87 81 84
+register 3621 7698 15 52 73
+update 2805 2 32
+hire_max
+register 3326 4715 62 29 78
+hire_min
+update 1719 2 49
+register 1499 8420 43 91 7
+update 1499 2 49
+register 2509 7547 89 37 11
+cancel 2009
+hire_min
+cancel 1719
+hire_max
+register 1399 2676 0 7 67
+register 411 2861 88 61 78
+register 804 4686 78 14 50
+cancel 1399
+register 3938 8840 54 23 48
+update 411 1 13
+update 2509 2 2
+register 3360 3818 67 95 41
+register 2821 9729 44 93 47
+update 411 0 56
+cancel 2821
+hire_max
+register 1573 932 83 84 89
+register 3971 5073 65 49 31
+hire_min
+register 688 8991 62 7 1
+register 2932 6003 72 82 86
+update 3938 2 91
+hire_max
+register 752 5094 97 12 71
+register 3341 3584 90 0 11
+hire_min
+register 1900 8060 93 23 56
+cancel 42
+register 3520 9421 33 40 81
+hire_max
+register 3818 3901 1 47 73
+register 370 4175 99 28 37
+register 2204 2714 23 68 43
+hire_max
+register 1708 9576 20 21 5
+register 3861 3592 71 67 76
+register 2779 7788 38 75 56
+register 3289 7015 87 32 65
+hire_min
+hire_max
+register 2876 3641 83 82 31
+register 2222 4528 70 91 60
+register 2349 9532 44 50 9
+register 3383 1997 20 65 50
+register 2728 9500 50 85 29
+cancel 2728
+update 1708 2 58
+update 1708 2 90
+update 688 2 97
+register 872 9984 72 65 86
+hire_min
+hire_max
+register 2649 8436 56 16 53
+register 2295 4552 3 53 5
+hire_min
+register 2213 6689 84 62 82
+register 2385 7113 28 40 38
+hire_max
+register 3975 9282 38 41 69
+register 2104 2366 62 31 5
+hire_max
+register 1829 1413 5 94 76
+register 3251 8803 86 69 99
+register 3253 9533 19 97 51
+hire_max
+register 3947 108 76 68 100
+register 1312 388 96 27 18
+register 579 6142 51 6 91
+hire_max
+register 296 3386 56 30 3
+register 492 8337 7 14 33
+register 1682 6886 70 21 90
+hire_min
+register 3361 4345 64 6 41
+hire_max
+register 585 9597 12 67 91
+register 3551 5135 45 52 99
+register 3127 1725 76 16 19
+update 492 1 1
+hire_max
+register 1405 1522 60 79 68
+register 3271 3267 100 18 53
+register 148 8368 98 94 50
+hire_max
+register 229 944 28 24 64
+register 1862 85 27 93 97
+register 3123 5761 21 26 36
+hire_max
+register 2565 8434 67 36 62
+register 2377 7415 25 38 4
+register 2389 5366 5 24 9
+hire_min
+register 3383 2557 9 21 79
+hire_max
+register 507 4062 84 51 54
+register 106 2645 21 59 26
+register 474 8691 15 93 19
+hire_min
+register 306 5075 9 39 58
+cancel 507
+register 619 3586 71 72 63
+cancel 619
+register 2007 7715 23 69 45
+update 306 1 71
+hire_max
+register 1308 4537 67 69 11
+register 2257 8800 60 13 90
+register 26 580 19 79 47
+cancel 2257
+register 377 8816 22 33 28
+hire_min
+register 316 6146 97 95 9
+update 2377 0 17
+register 1537 9717 84 27 48
+hire_min
+hire_min
+register 1247 3544 1 27 41
+hire_min
+register 2763 8107 12 28 55
+register 1125 1130 43 52 85
+hire_min
+cancel 1537
+register 2576 5537 13 76 90
+register 529 5113 58 26 53
+hire_max
+register 1518 8833 21 88 79
+register 550 8193 90 20 38
+cancel 377
+register 2373 1777 94 0 7
+hire_min
+register 1669 9921 99 79 20
+cancel 2377
+register 489 3555 2 35 80
+cancel 550
+register 2167 2930 1 77 98
+cancel 2167
+register 3074 8837 40 99 30
+register 3697 8687 38 74 45
+register 3467 2396 19 81 2
+register 3155 299 60 79 1
+update 3155 0 50
+cancel 3155
+update 3074 1 71
+update 489 1 94
+register 2191 5636 81 38 23
+update 489 1 67
+register 3724 3604 91 95 32
+update 1518 1 48
+register 886 1872 51 78 36
+hire_max
+hire_max
+register 216 5650 51 30 28
+register 2682 8142 2 67 95
+register 1970 6333 36 78 23
+update 216 1 80
+hire_max
+register 3244 7540 28 89 15
+cancel 492
+register 1366 8814 22 78 97
+update 1970 0 11
+register 3553 1029 30 22 92
+update 1366 0 40
+cancel 3467
+update 1366 1 94
+register 2943 4885 82 30 51
+update 1970 2 24
+cancel 3553
+hire_max
+register 199 7712 80 95 35
+register 3551 3109 63 15 52
+register 2351 5611 34 18 92
+cancel 3551
+register 1556 9727 81 0 53
+update 3244 1 45
+register 3956 6143 14 12 92
+update 1970 2 98
+hire_min
+hire_min
+register 2736 9829 96 96 9
+update 1556 2 55
+hire_max
+register 1048 6859 10 82 77
+register 1676 4871 95 83 95
+register 3388 2771 32 11 8
+hire_max
+register 2450 8838 19 32 78
+register 2372 2935 51 26 17
+register 2940 7054 57 67 83
+cancel 2450
+register 3931 6220 1 85 19
+hire_min
+register 1119 1732 27 15 33
+hire_max
+register 2474 8901 50 21 81
+register 902 2830 47 43 8
+register 1696 7711 5 75 56
+hire_max
+register 3627 7443 21 54 12
+register 237 9214 42 66 50
+register 770 2968 54 31 67
+update 237 0 59
+hire_min
+register 3630 3027 40 84 5
+cancel 770
+register 1192 8591 75 53 17
+update 3627 2 92
+register 299 134 92 89 10
+hire_max
+register 113 1658 37 36 91
+register 1220 4332 81 50 33
+register 3560 1987 81 94 27
+update 1220 0 1
+hire_min
+update 3630 1 55
+hire_max
+register 2508 1690 37 96 78
+register 1160 311 3 75 68
+register 3615 9985 53 23 79
+update 1160 2 91
+hire_min
+register 3681 2587 42 74 31
+update 3615 1 40
+hire_min
+register 825 5090 94 75 29
+update 825 1 38
+hire_min
+register 2787 1061 66 66 77
+hire_max
+register 558 6440 71 88 63
+register 599 6774 47 23 21
+register 2311 4523 85 12 53
+update 3244 2 22
+register 19 6488 70 43 96
+cancel 558
+register 2759 4137 35 69 75
+register 1129 7081 32 19 50
+hire_min
+cancel 2311
+update 19 2 62
+register 3043 4796 78 40 52
+register 127 1284 71 97 15
+hire_max
+register 1736 7374 100 97 41
+hire_min
+register 2435 9307 30 10 92
+update 599 0 43
+register 2295 7668 76 18 4
+hire_max
+register 3015 7079 65 2 80
+register 3576 711 34 46 89
+hire_min
+register 654 788 23 22 17
+update 599 2 24
+hire_min
+register 2329 9040 77 76 31
+hire_min
+register 692 1314 68 100 33
+cancel 2295
+register 3280 5272 25 72 46
+cancel 692
+register 3351 9664 100 60 84
+cancel 3015
+register 233 8842 6 69 46
+cancel 3351
+register 1144 9599 32 20 0
+cancel 233
+register 1692 9950 68 56 85
+cancel 2329
+register 3767 1325 11 2 14
+hire_max
+register 2407 905 71 0 38
+register 1544 1455 42 68 83
+register 2330 5487 59 22 96
+cancel 1544
+register 3705 76 91 28 73
+update 2330 2 44
+register 2642 8611 71 1 35
+cancel 2407
+update 1144 0 42
+register 1210 1837 96 95 34
+hire_max
+register 1330 7511 29 57 72
+register 3442 6513 37 71 4
+register 2769 1594 65 88 48
+register 3006 9321 41 29 37
+hire_min
+hire_min
+update 1330 2 11
+cancel 3006
+register 2333 1820 69 89 53
+hire_min
+register 997 2973 52 37 68
+update 2642 2 79
+hire_min
+register 454 2250 47 37 29
+hire_min
+register 2745 2404 27 13 82
+hire_min
+register 1277 2361 90 32 87
+hire_min
+register 37 3873 24 23 99
+hire_min
+register 2826 1037 60 21 25
+register 3993 2700 36 10 39
+register 415 4512 94 35 54
+update 2826 1 42
+hire_max
+register 3326 9436 57 94 31
+cancel 3993
+register 2930 7905 10 88 17
+cancel 1144
+register 3419 3873 74 80 53
+cancel 3326
+register 1672 5843 51 91 49
+cancel 3442
+register 819 3657 50 23 31
+cancel 3419
+register 2466 7862 43 36 12
+cancel 2466
+register 2968 8757 8 96 51
+update 1330 0 4
+update 1330 1 80
+hire_min
+register 2838 939 45 11 17
+hire_min
+register 35 7224 9 73 46
+cancel 2968
+register 3590 4821 63 87 52
+hire_min
+register 3351 4287 57 82 3
+register 1085 1498 81 44 57
+register 3408 2842 46 38 24
+update 3408 1 81
+hire_min
+cancel 3351
+hire_min
+register 3907 3851 100 16 61
+update 2930 2 54
+hire_min
+register 1601 5005 11 23 31
+update 35 1 15
+register 797 8960 71 98 11
+cancel 1330
+hire_min
+register 2819 745 20 26 3
+hire_max
+register 3727 2439 37 44 21
+register 673 5980 31 3 98
+register 2981 1241 55 18 91
+hire_max
+register 1498 5612 57 50 0
+register 3367 8108 29 9 17
+register 3663 3111 42 75 31
+hire_min
+register 1152 9544 82 23 63
+update 1498 0 71
+hire_max
+register 2324 8859 60 5 53
+register 23 3575 95 1 96
+register 1965 2840 77 45 3
+register 709 5008 51 26 78
+register 2838 7715 60 7 60
+hire_max
+register 303 8546 75 35 24
+hire_min
+register 622 3929 56 37 47
+hire_min
+register 1171 5961 70 9 52
+cancel 3367
+register 994 9494 97 41 21
+update 1171 1 32
+register 1206 9466 37 25 22
+register 7 1306 82 19 8
+hire_min
+cancel 1171
+cancel 35
+register 3393 8995 4 69 25
+hire_max
+register 3468 7064 75 83 27
+register 238 6208 90 11 95
+register 866 5845 87 29 60
+hire_min
+register 3993 5263 74 17 67
+cancel 3468
+register 740 7301 41 22 53
+update 740 1 1
+register 2736 3976 75 56 78
+register 3420 8368 78 66 100
+cancel 3393
+update 1206 1 66
+update 1206 1 24
+update 238 2 98
+hire_min
+register 2120 7065 43 28 36
+cancel 740
+hire_max
+register 983 3909 39 77 29
+register 2828 1296 94 22 75
+register 2197 4389 15 63 56
+hire_min
+register 3857 6421 86 8 59
+cancel 3857
+register 64 3910 97 84 13
+update 2120 2 75
+hire_min
+register 3524 5276 76 63 26
+register 3728 6477 52 69 20
+register 2818 9806 36 39 82
+hire_min
+update 3524 1 5
+register 1241 4722 46 86 26
+cancel 2120
+hire_max
+register 222 3800 22 49 57
+register 2569 4185 91 92 8
+hire_max
+register 2355 482 12 61 100
+register 1700 3463 97 62 58
+register 1766 4123 25 11 0
+register 1137 3342 81 2 60
+update 1820531453 1 19
+update 1700 2 14
+hire_min
+cancel 1206
+register 710 5169 85 8 22
+update 3524 2 49
+update 1766 0 31
+cancel 1137
+register 2263 4949 40 70 16
+hire_max
+register 761 6743 5 88 49
+register 253 6014 70 8 45
+register 2280 3240 20 59 23
+cancel 2280
+register 1889 1028 60 86 61
+hire_min
+register 1851 4032 93 18 59
+cancel 710
+register 2822 9672 67 26 68
+cancel 761
+register 1057 6389 16 12 80
+cancel 1057
+register 1529 6125 46 23 8
+hire_max
+register 3246 8372 55 50 61
+register 1358 481 16 23 3
+register 864 793 45 1 85
+hire_max
+register 1900 3391 60 64 78
+register 3075 1491 20 35 94
+register 1918 8531 94 62 20
+hire_max
+register 2931 5953 30 49 32
+register 68 2668 55 18 30
+register 3818 7113 47 40 17
+hire_min
+register 3701 4590 25 95 2
+hire_max
+register 2291 8971 72 10 30
+register 630 5595 20 13 39
+register 2432 5823 66 100 50
+cancel 1766
+register 1119 4714 86 95 27
+update 68 1 6
+register 1187 318 18 93 55
+hire_min
+register 3060 919 77 89 40
+update 630 0 37
+update 2291 0 10
+hire_max
+register 2692 2107 72 16 69
+register 1109 6065 12 31 24
+hire_min
+register 67 5400 35 43 61
+hire_max
+register 611 3772 42 99 61
+register 2379 5141 31 30 65
+register 2422 1610 58 49 46
+hire_min
+register 2761 7057 89 16 88
+register 2835 5946 79 53 100
+hire_min
+cancel 1109
+register 1555 618 85 67 36
+cancel 2761
+register 2253 9208 50 35 29
+cancel 2379
+register 2198 4151 9 39 9
+update 2291 2 82
+register 1215 7320 1 66 93
+hire_min
+cancel 1215
+register 3527 3905 65 50 91
+update 2253 0 75
+register 1512 7872 33 93 18
+register 3899 2879 76 70 40
+update 3527 2 77
+cancel 3527
+update 3899 0 72
+hire_max
+register 3401 9048 7 53 66
+register 1366 3078 90 17 30
+update 2253 2 6
+cancel 2291
+register 1059 1784 3 17 41
+hire_max
+register 3857 97 43 65 36
+register 2581 9137 5 89 5
+register 2288 4757 95 43 52
+hire_min
+register 3654 5619 76 16 98
+hire_min
+register 2751 623 13 21 97
+register 2243 6245 95 98 29
+hire_max
+register 585 6871 50 78 23
+register 2221 2789 13 82 67
+cancel 2221
+register 46 7159 50 94 76
+hire_max
+register 1827 4574 5 34 14
+register 44 2328 49 10 0
+register 1984 1912 41 12 25
+cancel 2198
+register 2059 6449 62 61 59
+hire_max
+register 2641 7695 14 17 80
+register 3518 5012 3 85 36
+register 1156 7289 71 80 93
+update 3518 2 2
+hire_max
+register 1946 8033 9 65 52
+register 2969 4942 48 2 98
+register 2970 1416 49 24 73
+hire_min
+register 2704 1814 46 33 97
+hire_max
+register 1580 8578 47 93 75
+register 2460 3777 89 22 15
+register 2359 7095 88 36 13
+hire_max
+register 1727 6863 16 15 65
+register 1639 3384 93 92 73
+register 2151 8823 85 45 38
+register 834 4169 75 21 10
+register 3897 3763 39 32 1
+cancel 1827
+hire_min
+cancel 3897
+register 2437 5618 39 13 18
+hire_max
+register 1291 7619 76 100 23
+register 2107 3187 57 12 88
+register 1947 7567 47 73 72
+hire_min
+register 1867 4995 4 71 66
+hire_min
+register 1944 3781 37 4 36
+update 1201340595 1 3
+register 2506 834 92 63 34
+cancel 1947
+cancel 1727
+register 847 7600 94 8 87
+hire_max
+register 386 1708 97 90 28
+register 3157 2199 55 39 79
+register 1828 7111 42 60 38
+update 1828 0 51
+cancel 1944
+register 3139 5019 21 33 63
+hire_max
+register 1693 4243 65 16 84
+register 722 5936 23 82 92
+register 653 1849 31 52 6
+hire_max
+register 2620 6964 33 27 89
+register 2116 9770 72 79 4
+register 2314 8498 19 47 78
+hire_min
+register 1578 6504 38 95 17
+hire_max
+register 592 8139 68 56 84
+register 3284 7243 5 19 6
+register 2102 7980 27 21 46
+hire_min
+register 937 2481 52 44 60
+hire_max
+register 679 4009 88 28 31
+register 3779 6731 1 6 17
+register 1285 3601 15 69 34
+cancel 3779
+register 3632 5261 8 12 91
+register 1156 8377 32 80 95
+cancel 679
+update 1156 1 75
+register 3627 3147 74 56 62
+hire_min
+cancel 2102
+register 3538 2839 28 17 12
+update 1156 2 27
+hire_max
+register 611 1324 76 40 36
+register 3743 8631 38 16 63
+register 1614 5448 41 62 10
+register 3361 6960 15 97 46
+register 1377 8970 2 100 50
+hire_min
+update 1377 2 70
+hire_min
+hire_max
+register 1084 6249 79 13 54
+register 3289 8416 71 74 100
+register 1344 3376 58 97 41
+hire_max
+register 3156 8727 58 93 19
+register 748 9258 49 73 26
+register 953 1783 7 65 60
+cancel 953
+register 2779 4233 56 85 6
+hire_min
+register 251 4399 100 90 64
+hire_min
+register 3782 6471 6 12 29
+hire_max
+register 908 2655 81 47 52
+register 1330 1460 90 70 74
+register 3050 1433 57 8 94
+hire_max
+register 3699 1112 29 26 22
+register 447 9078 57 14 37
+register 3986 6315 47 96 0
+hire_min
+register 3309 2072 82 94 99
+hire_max
+register 2934 1429 65 29 32
+register 3570 7767 62 39 92
+register 3641 3639 90 18 6
+cancel 3284
+register 3888 722 67 59 90
+hire_min
+register 2441 1615 49 71 57
+hire_max
+register 1635 6169 64 45 62
+register 2142 4132 71 2 88
+register 3862 9125 16 49 82
+register 2311 8365 25 63 25
+hire_min
+cancel 1635
+register 13 5804 42 97 36
+register 1418 8306 78 83 96
+register 2359 4593 98 79 81
+hire_max
+register 3881 5881 65 77 81
+cancel 3881
+register 107 1496 20 52 49
+hire_max
+register 449 9377 100 1 28
+register 1371 9008 97 98 55
+register 2912 7466 77 8 86
+register 3648 9633 97 91 3
+register 3935 656 44 41 77
+register 212 2285 57 24 33
+hire_min
+hire_max
+register 3034 6332 28 77 26
+register 1644 4413 79 33 73
+register 3278 1321 79 69 88
+hire_max
+register 1896 3194 65 42 88
+hire_max
+register 1195 2092 86 5 40
+register 1002 7830 0 53 63
+register 150 5387 69 87 0
+update 2311 0 91
+register 2790 2152 12 49 80
+register 621 9830 51 52 7
+hire_max
+register 3137 3567 55 91 79
+hire_max
+register 2683 5163 53 90 83
+register 2239 4629 55 41 36
+register 2999 7072 80 49 83
+update 3782 2 58
+cancel 2239
+register 569 4526 86 39 37
+cancel 3782
+register 1478 8181 10 34 87
+update 621 1 94
+hire_max
+register 3228 6085 30 9 42
+register 1718 2029 12 56 49
+register 3851 203 83 13 9
+hire_min
+register 3217 6844 62 99 1
+cancel 1478
+register 1231 9372 36 11 69
+hire_min
+register 1587 3064 34 44 8
+cancel 1231
+register 1713 6069 0 69 3
+register 1304 8657 37 5 35
+hire_min
+hire_min
+register 1653 4223 82 96 54
+register 2338 7012 12 69 15
+update 3217 2 85
+cancel 1653
+update 3217 0 3
+register 3380 3566 48 90 47
+update 3228 2 12
+hire_min
+hire_min
+register 2799 503 2 60 56
+register 2023 929 11 84 48
+hire_min
+hire_min
+register 235 4671 27 13 77
+cancel 1304
+register 1454 219 62 41 42
+hire_max
+register 2437 3289 26 55 53
+register 495 9784 15 8 35
+register 3371 303 53 80 90
+hire_min
+register 1557 9460 75 19 12
+hire_max
+register 283 3417 64 93 2
+register 847 6380 71 49 15
+register 1621 4425 65 49 0
+hire_min
+register 1188 6069 87 16 68
+register 3958 7435 68 3 46
+update 1621 0 100
+update 1188 0 48
+hire_min
+hire_max
+register 3537 2787 10 47 29
+register 1184 5240 42 1 90
+register 2492 9205 41 49 92
+update 1184 0 23
+update 2338 2 16
+hire_min
+register 3101 1611 6 72 49
+hire_max
+register 1620 201 48 34 51
+register 735 5043 10 25 52
+register 1309 6922 95 36 99
+cancel 735
+register 3743 5110 44 1 54
+hire_max
+register 1241 1004 41 12 56
+register 1536 5435 28 63 69
+register 1129 3493 11 100 37
+register 3731 4148 60 10 54
+update 1536 1 86
+register 3747 3592 10 34 49
+cancel 1241
+hire_min
+register 1362 5693 8 84 99
+hire_min
+cancel 2338
+register 3933 1829 28 92 15
+cancel 1362
+register 1936 2318 18 73 8
+register 3169 2722 38 52 39
+cancel 3933
+hire_max
+register 1913 9244 16 84 39
+register 3836 9070 85 51 33
+register 3893 1380 95 73 28
+register 2683 4327 4 81 95
+hire_min
+hire_max
+register 155 6159 60 81 7
+register 3063 732 63 18 31
+register 3018 8502 64 26 48
+hire_min
+register 3254 2399 5 45 78
+cancel 495
+register 1951 1180 70 14 12
+hire_max
+register 1100 8391 39 36 66
+register 2028 138 24 50 11
+register 3765 411 46 89 11
+hire_max
+register 445 3297 87 97 44
+register 2582 623 40 30 11
+register 2928 4217 20 14 38
+hire_max
+register 487 211 69 45 20
+register 3286 3678 20 4 66
+register 3636 2266 16 3 39
+update 487 0 11
+register 2216 6481 34 74 3
+hire_max
+register 670 9626 50 12 11
+register 3546 737 22 15 68
+hire_min
+register 2832 8877 15 15 93
+hire_min
+register 789 6966 21 36 58
+update 2928 0 22
+hire_min
+register 2956 9454 100 81 16
+register 2626 8776 92 34 72
+register 999 9162 9 70 3
+hire_max
+register 3703 8572 43 39 59
+hire_min
+register 3389 6408 20 65 14
+cancel 3389
+register 3602 9020 20 6 53
+hire_max
+register 3721 2148 71 64 4
+register 421 9911 37 81 35
+register 1660 2141 25 38 21
+hire_max
+register 2906 4672 18 51 80
+register 1772 1329 10 40 55
+register 2074 6845 63 89 23
+hire_max
+register 1797 2196 63 3 95
+register 2521 3329 24 30 69
+register 1495 6151 96 48 38
+update 1797 1 8
+update 1797 1 94
+register 3844 6021 68 28 64
+hire_min
+hire_min
+register 2478 3961 71 83 33
+hire_min
+register 2196 4446 82 92 33
+update 1495 2 45
+update 2196 1 19
+update 670 0 20
+hire_max
+register 2083 594 37 90 93
+register 3031 2855 18 5 45
+register 3730 4712 56 80 9
+register 3667 5179 74 61 55
+hire_min
+update 3730 2 98
+cancel 3667
+register 1863 5753 90 37 13
+update 670 1 64
+cancel 3602
+register 2298 9661 41 36 56
+register 632 9953 35 48 7
+hire_min
+hire_min
+register 3345 530 89 2 85
+hire_min
+register 1696 4916 45 100 98
+register 1052 7493 78 86 67
+cancel 1863
+update 632 0 30
+register 1121 4328 25 9 76
+hire_min
+cancel 1696
+register 2263 7030 84 61 43
+register 1786 6056 42 72 15
+update 632 1 67
+register 1615 1589 48 64 67
+hire_min
+register 2165 9390 86 29 2
+update 1786 1 16
+hire_min
+hire_min
+register 1798 794 45 92 36
+register 2714 4269 32 39 95
+cancel 1052
+register 3371 9149 94 10 70
+update 2714 1 38
+register 2111 3616 48 21 62
+hire_max
+hire_min
+register 1531 4939 84 98 86
+update 2298 0 17
+register 3425 2448 51 89 59
+hire_max
+register 1790 4614 15 30 20
+register 430 9279 72 50 15
+hire_min
+register 1912 1624 30 36 78
+hire_max
+register 2494 2960 49 75 47
+register 2523 9509 80 37 31
+register 413 2156 51 14 93
+cancel 2523
+register 477 1602 77 53 17
+cancel 2494
+register 2783 5323 35 22 57
+update 2783 1 61
+register 540 3672 62 15 11
+cancel 540
+update 2783 0 15
+hire_min
+register 3998 7979 14 55 95
+hire_min
+register 3832 2367 1 50 91
+update 3832 0 66
+update 3832 0 1
+cancel 2004628811
+update 632 0 94
+register 3208 3575 86 85 4
+hire_min
+register 2304 7934 5 63 40
+hire_max
+register 2785 9350 19 4 20
+register 1808 5008 94 60 32
+update 670 0 90
+update 2783 2 58
+cancel 2783
+register 918 4795 81 18 16
+hire_max
+register 1603 6172 11 33 18
+register 340 2379 93 15 58
+register 3690 3951 82 86 64
+register 1354 4405 51 90 3
+hire_min
+hire_max
+register 3238 5422 24 34 96
+register 1684 5326 28 82 9
+register 854 7615 91 53 24
+update 854 0 26
+register 546 2301 19 1 10
+register 896 198 34 88 31
+register 2080 3216 55 23 91
+hire_max
+update 1684 1 72
+cancel 546
+register 1281 636 59 94 92
+register 2680 9530 6 14 65
+register 2563 9528 34 1 58
+hire_max
+register 1786 2201 59 82 54
+register 3922 9706 77 82 38
+hire_min
+hire_min
+register 3296 2819 35 65 76
+update 2785 2 71
+cancel 2680
+register 1928 6261 61 26 72
+update 2785 1 82
+update 3296 1 94
+update 2785 1 94
+register 3597 7866 64 86 10
+cancel 3296
+update 1928 2 86
+hire_max
+register 807 9742 8 93 34
+register 1658 2545 10 51 3
+register 3357 6124 29 42 85
+cancel 2563
+register 3029 9791 1 49 92
+hire_max
+register 729 7277 66 67 5
+register 2746 2351 71 58 56
+register 2585 5149 41 48 5
+register 882 5980 70 90 99
+cancel 1658
+hire_max
+register 2249 7290 77 13 14
+register 523 8440 89 16 35
+register 1921 4992 53 2 91
+hire_min
+register 1164 1724 92 78 1
+hire_min
+register 2772 1136 41 9 37
+cancel 2249
+register 3844 3850 2 16 17
+register 123 7377 91 46 79
+hire_max
+register 3944 6374 90 76 29
+register 1037 2650 88 24 75
+hire_max
+register 2416 564 56 37 94
+register 2196 1555 74 16 87
+register 3209 5505 10 2 100
+update 2772 0 62
+cancel 2196
+register 1829 2275 0 26 89
+hire_min
+register 3311 5715 10 29 31
+cancel 3209
+register 3258 6219 56 47 86
+register 1085 3420 33 3 96
+update 1829 2 39
+register 3953 4026 60 36 43
+hire_min
+update 3311 0 67
+cancel 3258
+hire_min
+register 439 7483 9 8 90
+register 3690 4214 46 40 55
+cancel 3844
+cancel 439
+register 3545 4157 20 72 58
+cancel 1085
+register 1593 4545 67 4 62
+hire_min
+register 3371 580 39 23 25
+cancel 1593
+register 2360 631 73 16 22
+hire_max
+register 2786 6763 53 22 12
+register 3026 3486 62 45 53
+register 1111 4476 9 32 62
+cancel 2786
+register 3458 3 100 99 12
+cancel 1111
+register 3468 3446 1 17 80
+cancel 3468
+register 372 3812 77 56 66
+hire_max
+register 2610 7877 18 55 97
+register 3328 3401 94 80 40
+register 1851 6454 91 9 40
+hire_max
+register 3758 2534 67 83 78
+register 3236 2880 85 41 100
+register 1148 4377 69 68 68
+hire_max
+register 2280 5734 17 49 42
+register 557 3299 25 100 25
+register 3754 7874 56 87 49
+hire_min
+register 1962 5443 63 28 95
+update 3754 0 55
+cancel 3754
+register 253 6653 80 77 63
+update 2280 2 90
+hire_max
+register 2821 924 9 15 3
+register 1639 9100 9 28 7
+register 2008 743 88 78 94
+update 557 2 28
+hire_max
+register 2268 7958 25 74 45
+register 1913 9516 13 63 86
+register 2989 8330 84 88 60
+update 2989 0 70
+hire_min
+register 554 8945 72 24 57
+hire_max
+register 3014 3072 88 61 10
+register 3441 8743 87 18 17
+register 3131 9138 55 31 28
+cancel 3441
+register 2137 6656 61 20 98
+hire_max
+register 1806 332 41 41 50
+register 1692 1924 93 46 83
+register 690 5832 67 7 21
+hire_max
+register 1238 2990 0 42 50
+register 1401 6716 57 90 78
+register 44 9580 15 24 59
+hire_min
+register 3636 447 58 88 24
+register 3265 6614 55 6 27
+hire_max
+register 3928 9891 14 16 0
+register 1233 5596 51 76 58
+update 3928 1 5
+hire_max
